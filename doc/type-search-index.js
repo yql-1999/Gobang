@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"cn.edu.yql.gobang","l":"MainFrame"},{"l":"所有类","url":"allclasses-index.html"}]
